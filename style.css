@@ -22,7 +22,7 @@ body {
   width: 330px;
   height: 530px;
   border-radius: 15px;
-  background-color: #D444F9;
+  background-color: #FBAFFF;
   box-shadow: 0 15px 20px 0 #E751FF;
 }
 .player input[type=range] {
@@ -99,7 +99,7 @@ body {
 }
 .player .info .singer {
   font-size: 12px;
-  color: #F2ACFD;
+  color: #6A696A;
 }
 .player .btn-box {
   position: absolute;
